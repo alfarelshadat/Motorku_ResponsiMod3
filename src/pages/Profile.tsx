@@ -52,14 +52,6 @@ export default function Profile() {
                 </div>
               </div>
             </div>
-
-            <div className="mt-8 p-6 bg-blue-50 rounded-lg border border-blue-200">
-              <h2 className="text-lg font-bold text-gray-800 mb-2">Tentang Aplikasi</h2>
-              <p className="text-gray-700 leading-relaxed">
-                Website marketplace motor ini dibuat menggunakan React, Vite, Tailwind CSS, dan Progressive Web App (PWA).
-                Aplikasi ini dapat di-install dan berjalan offline, memberikan pengalaman pengguna yang optimal.
-              </p>
-            </div>
           </div>
         </div>
       </div>
